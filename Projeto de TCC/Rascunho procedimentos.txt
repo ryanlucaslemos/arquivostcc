@@ -1,0 +1,1 @@
+Planejamento acerca de como ocorrerá a coleta de dados -> Entrevistas para Levantamento de Requisitos -> Modelagem -> Desenvolvimento-> Testes -> Teste de aceitação do cliente -> Implantação -> Avaliação final do uso do XP.

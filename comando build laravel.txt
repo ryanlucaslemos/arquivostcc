@@ -1,0 +1,3 @@
+para ficar assistindo: ng build --output-path=./../../../public/app --watch
+para buildar onde esta o wordpress e laravel = ng build --output-path=./../ambiente/app --watch --base-href /app/
+para buildar onde esta a pasta de build = ng build --output-path=./../app --watch --base-href /app/
